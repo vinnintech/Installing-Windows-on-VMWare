@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://imgur.com/SesjIjk" height="80%" width="80%" alt="Windows 11"/>
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/1c8917b2-55c2-4f58-9fbe-9d25ac6fd925" />
+
 <br/>
   
 # Installing Windows on VMware
@@ -34,7 +35,7 @@ This guide shows you how to install Windows 11 from scratch on VMWare. It includ
 3. Confirm and Download it
 ![Image](https://github.com/user-attachments/assets/ab485c97-1899-4558-b8dd-0c14e19fd3d5)
 
-## Create a new Virtual Machine
+## Create a New Virtual Machine
 1. Open VMware previously installed and you will see a fresh page where you will create your virual machine.
 2. Select Create a New virtual Machine
 3. Choose Custom(advanced) installation.
@@ -62,6 +63,7 @@ This guide shows you how to install Windows 11 from scratch on VMWare. It includ
 11. Proceed with recommended I/O controllers
 12. Recommended Disk Type
 13. Create a new virtual disk
+  
     <img width="622" height="629" alt="image" src="https://github.com/user-attachments/assets/dadd4b4c-6db9-42af-af7c-968db5c1314c" />
     
 14. Give your VM disk capacity.
@@ -73,4 +75,11 @@ This guide shows you how to install Windows 11 from scratch on VMWare. It includ
     
 16. Confirm everything and Finish to create our new Virtual Machine
 <img width="368" height="367" alt="image" src="https://github.com/user-attachments/assets/83eb87db-93cf-49a1-be8f-1222c7ebfee0" />
+17. We have sucessfully created our virtual machine
+    <img width="975" height="528" alt="image" src="https://github.com/user-attachments/assets/13ff63f7-9e8d-4c31-bbd6-ef77d1fbe46a" />
+
+## Installing Windows 
+1. 
+    
+
 
