@@ -2,8 +2,9 @@
 <img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/1c8917b2-55c2-4f58-9fbe-9d25ac6fd925" />
 
 <br/>
-  
 
+  # How to Install Windows on Vmware Workstation Pro
+  
 ## Download VMWare Workstation Pro
 - When Installing VMWare Workstation, you have to go to [Broadcom.com](Broadcom.com), and create an account with them.
   ![Image](https://github.com/user-attachments/assets/b89e38bd-3e2a-4d4b-adb2-9a7d236aef7f)
@@ -70,13 +71,46 @@
 
 15. Name your disk file.
     
-16. Confirm everything and Finish to create our new Virtual Machine
+16. Confirm everything and Finish to create our new Virtual Machine.
+
 <img width="368" height="367" alt="image" src="https://github.com/user-attachments/assets/83eb87db-93cf-49a1-be8f-1222c7ebfee0" />
-17. We have sucessfully created our virtual machine
+
+17. **We have sucessfully created our virtual machine.**
     <img width="975" height="528" alt="image" src="https://github.com/user-attachments/assets/13ff63f7-9e8d-4c31-bbd6-ef77d1fbe46a" />
 
 ## Installing Windows 
-1. 
-    
+1. Click the green play button. You will now see the Windows Installation Boot up. Click **Next**.
+2. Configure your language and keyboard.
+3. Choose Install Windows 11 and agree.
 
+     <img width="636" height="475" alt="image" src="https://github.com/user-attachments/assets/52f81722-8fa9-4e71-9b5a-f13008cad716" />
+    
+5. Insert Product Key. (For this example, we will click I don’t have a product key)
+   <img width="646" height="484" alt="image" src="https://github.com/user-attachments/assets/625d0189-9131-4622-9d49-89dbd1130263" />
+
+6. Select the version you are installing and agree to terms.
+7. Choose where you are installing the Windows 11.
+ 
+   <img width="649" height="493" alt="image" src="https://github.com/user-attachments/assets/78a15a53-2a0a-48f2-95c4-8980e8ebd181" />
+
+7.Once finished, go ahead and click Install.
+  - This takes a bit of time. (Up to 30 minuntes+)
+
+<img width="831" height="623" alt="image" src="https://github.com/user-attachments/assets/09176015-e73f-4cfe-88fc-6ca08e66e664" />
+
+8. Your machine should restart and now the Windows 11 install should boot.
+9. Configure you language and keyboard.
+<img width="779" height="581" alt="image" src="https://github.com/user-attachments/assets/8fa95b29-f989-4d4f-a5f0-5382c954eafc" />
+
+10. Name your device and proceed.
+    <img width="756" height="571" alt="image" src="https://github.com/user-attachments/assets/0bc7c52d-0dfa-4096-8ca0-3766a3cf0dee" />
+
+11. Now you can Sign in or create an account.
+    (For our lab, I will create a local user through CMD)
+12. `Shift + F10` to open CMD, then `”start ms-cxh:localonly”`
+<img width="808" height="637" alt="image" src="https://github.com/user-attachments/assets/72c8362d-dd0c-4848-930a-7127cfb9a95c" />
+
+13. Create the account and allow Windows 11 to boot.
+14. **We have succesessfully installed Windows 11 on a Virtual Machine.**
+    <img width="857" height="598" alt="image" src="https://github.com/user-attachments/assets/219bcc20-6795-48f8-b217-7d1b56c7c259" />
 
