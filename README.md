@@ -3,7 +3,7 @@
 
 <br/>
 
-  # How to Install Windows on Vmware Workstation Pro
+  # How to Install Windows on VMware Workstation Pro
   
 ## Download VMWare Workstation Pro
 - When Installing VMWare Workstation, you have to go to [Broadcom.com](Broadcom.com), and create an account with them.
